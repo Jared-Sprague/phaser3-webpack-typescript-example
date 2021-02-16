@@ -1,5 +1,5 @@
-# Space Rings Thing
-A scaleable multiplayer game example
+# phaser3 webpack typescript example
+A very simple example of a Phaser 3 game using WebPack and TypeScript
 
 ## Hacking
 
